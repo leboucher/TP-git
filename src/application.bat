@@ -1,4 +1,4 @@
-### application.bat - 2015 - Thibault ROGER ###
+### application.bat - 2015 - Louis ABID ###
 version = "2"
 build_hour = "11H00"
 
